@@ -1,0 +1,12 @@
+alert_before_days: 15
+
+domains:
+  - google.com
+  - github.com
+
+email:
+  sender: swapneswar9861@gmail.com
+  receiver: swapneswardash313@gmail.com
+  smtp_server: smtp.gmail.com
+  smtp_port: 587
+  app_password: your_gmail_app_password
